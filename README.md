@@ -1,6 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/66/6a/f3/666af3d8aa0d3896b00df4815441bd86.gif)](https://www.youtube.com/@gamingvirat1362)
 <h1 align="center">Hi 👋, I'm VIRAT NIGAM</h1>
 <h3 align="center">Currently a student at VIT cse ai-ml, passionate about developing web apps and game.</h3>
+<img src="https://i.pinimg.com/originals/66/6a/f3/666af3d8aa0d3896b00df4815441bd86.gif" alt="Banner" style="width:100%;"/>
+<a href="https://i.pinimg.com/originals/66/6a/f3/666af3d8aa0d3896b00df4815441bd86.gif" target="_blank" rel="noreferrer">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viratnigam18&label=Profile%20views&color=0e75b6&style=flat" alt="viratnigam18" /> </p>
